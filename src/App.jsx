@@ -347,7 +347,7 @@ const Portfolio = () => {
     transition={{ delay: 0.7 }}
   >
     <img 
-      src="/my-photo.png" 
+      src="/IMG_5990.png" 
       alt="Ahmed Ibrahim"
       className="w-full h-full object-cover"
     />
